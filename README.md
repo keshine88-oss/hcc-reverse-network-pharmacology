@@ -1,8 +1,13 @@
 # Standard single-cohort transcriptomic workflow nominates candidate targets in hepatocellular carcinoma but fails external validation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23035379.svg)](https://doi.org/10.5281/zenodo.23035379)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Code repository accompanying the manuscript:
 
 > **Standard single-cohort transcriptomic workflow nominates candidate targets in hepatocellular carcinoma but fails external validation: a reverse network-pharmacology pipeline with a methodological sensitivity analysis**
+
+**Archived release:** v1.0.1 — DOI [10.5281/zenodo.23035380](https://doi.org/10.5281/zenodo.23035380) (concept DOI, always resolving to the latest version: [10.5281/zenodo.23035379](https://doi.org/10.5281/zenodo.23035379))
 
 ---
 
@@ -156,7 +161,16 @@ python scripts/10_molecular_docking/run_vina_docking.py
 
 ## Citation
 
-If you use this code, please cite the manuscript (details to be added upon publication) and this repository. See [`CITATION.cff`](CITATION.cff).
+If you use this code, please cite the manuscript (details to be added upon publication) and this archived release:
+
+```text
+Zou, K. (2026). Standard single-cohort transcriptomic workflow nominates candidate
+targets in hepatocellular carcinoma but fails external validation (v1.0.1) [Computer
+software]. Zenodo. https://doi.org/10.5281/zenodo.23035380
+```
+
+- Concept DOI (always resolves to the latest version): https://doi.org/10.5281/zenodo.23035379
+- Machine-readable metadata: [`CITATION.cff`](CITATION.cff)
 
 ## License
 
