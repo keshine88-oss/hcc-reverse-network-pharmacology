@@ -26,4 +26,5 @@ authors:
   - family-names: "ZKX"
     given-names: ""
     # TODO: replace with the full author list and affiliations before publication
-repository-code: ""   # TODO: add the GitHub URL after creating the repository
+repository-code: "https://github.com/keshine88-oss/hcc-reverse-network-pharmacology"
+url: "https://github.com/keshine88-oss/hcc-reverse-network-pharmacology"
