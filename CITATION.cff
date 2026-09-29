@@ -10,7 +10,7 @@ abstract: >-
   replicate across cohorts.
 type: software
 license: MIT
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-09-29"
 keywords:
   - hepatocellular carcinoma
@@ -23,8 +23,9 @@ keywords:
   - molecular docking
   - traditional Chinese medicine
 authors:
-  - family-names: "ZKX"
-    given-names: ""
-    # TODO: replace with the full author list and affiliations before publication
+  - family-names: "Zou"
+    given-names: "KeXin"
+    orcid: "https://orcid.org/0009-0006-5963-1837"
+    affiliation: "Jining Medical University, Jining, Shandong, China"
 repository-code: "https://github.com/keshine88-oss/hcc-reverse-network-pharmacology"
 url: "https://github.com/keshine88-oss/hcc-reverse-network-pharmacology"
