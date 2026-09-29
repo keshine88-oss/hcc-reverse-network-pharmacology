@@ -1,0 +1,25 @@
+# Python dependencies for the reverse network-pharmacology pipeline.
+# Versions reflect the environment used in the manuscript.
+# Install with:  pip install -r requirements.txt
+
+# --- core scientific stack ---
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+
+# --- cheminformatics and docking preparation ---
+rdkit==2026.3.6
+meeko==0.8.0
+
+# --- structural biology ---
+gemmi==0.7.5
+
+# --- plotting and image handling ---
+matplotlib==3.11.1
+Pillow==12.3.0
+
+# --- PDF rasterisation (used to re-render vector figures) ---
+pypdfium2>=4.30
+
+# --- HTTP (DGIdb / ChEMBL / NPASS / GDC / STRING queries) ---
+requests>=2.31

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the manuscript and this repository."
+title: "Standard single-cohort transcriptomic workflow nominates candidate targets in hepatocellular carcinoma but fails external validation"
+abstract: >-
+  Reproducible reverse network-pharmacology pipeline for hepatocellular carcinoma:
+  differential expression, WGCNA, machine-learning consensus, survival analysis,
+  reverse drug mining, traditional Chinese medicine compound screening, molecular
+  docking, and external validation in two independent cohorts, together with a
+  methodological sensitivity analysis. The nominated prognostic signals do not
+  replicate across cohorts.
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-29"
+keywords:
+  - hepatocellular carcinoma
+  - reverse network pharmacology
+  - transcriptomics
+  - WGCNA
+  - machine learning
+  - survival analysis
+  - external validation
+  - molecular docking
+  - traditional Chinese medicine
+authors:
+  - family-names: "ZKX"
+    given-names: ""
+    # TODO: replace with the full author list and affiliations before publication
+repository-code: ""   # TODO: add the GitHub URL after creating the repository
